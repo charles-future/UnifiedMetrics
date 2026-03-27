@@ -1,0 +1,9 @@
+.idea/*
+!.idea/copyright
+*.iml
+*.ipr
+
+.gradle
+build
+**/run*/
+.kotlin

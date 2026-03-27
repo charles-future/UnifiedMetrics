@@ -1,0 +1,7 @@
+{
+    "entrypoint": "dev.cubxity.plugins.metrics.minestom.bootstrap.UnifiedMetricsMinestomExtension",
+    "name": "UnifiedMetrics",
+    "version": "${version}",
+    "codeModifiers": [],
+    "dependencies": []
+}
